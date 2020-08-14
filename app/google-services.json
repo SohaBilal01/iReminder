@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57361454061",
+    "firebase_url": "https://ireminder-9bb42.firebaseio.com",
+    "project_id": "ireminder-9bb42",
+    "storage_bucket": "ireminder-9bb42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57361454061:android:04b695adca6e2fd1cdcde4",
+        "android_client_info": {
+          "package_name": "com.example.ireminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57361454061-mraqhjhukrg8anedhj8ajtcnprra3c39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWmg8cDk9cqDbtxnG7WFvQ8-L06rL2Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57361454061-mraqhjhukrg8anedhj8ajtcnprra3c39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

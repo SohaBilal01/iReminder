@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iReminder</string>
+    <string name="i_reminder">iReminder</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account for iReminder</string>
+    <string name="profile">Profile</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+    <string name="sign_in_i_reminder">Sign In to the iReminder</string>
+    <string name="not_have_account">Not have an account yet? Create One</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+</resources>
